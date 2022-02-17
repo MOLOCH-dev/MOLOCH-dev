@@ -5,8 +5,8 @@
 
 I'm Anushree Sabnis, a pre-final year undergrad at VJTI, Mumbai
 
-I'm a roboticist, and an edge-computing enthusiast.
-I'm the current Joint General Secretary of a collegiate-level robotics club, [SRA](https://sravjti.in/)
+I'm a robotics and edge-computing enthusiast.
+
 
 #### Recent contributions :
 
